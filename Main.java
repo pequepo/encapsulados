@@ -11,6 +11,7 @@ public class Main {
 
     }
  
+}
 class Persona {
     private String nombre; 
     private int edad;
@@ -34,5 +35,4 @@ class Persona {
     public int getTelefono() {
         return telefono;
     }
-}
 }
